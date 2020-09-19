@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("EDMXFromDB")]
+[assembly: AssemblyTitle("ConsoleApplication")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("EDMXFromDB")]
+[assembly: AssemblyProduct("ConsoleApplication")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("d2a94760-b9f2-4aa8-b207-b5b67765a3b6")]
+[assembly: Guid("ac4eaae0-5c7b-449e-8c9e-abb360b6f4ff")]
 
 // Version information for an assembly consists of the following four values:
 //
